@@ -1,5 +1,5 @@
 # 🧠 WikiAnimes – Enciclopédia de Animes com Acessibilidade
-Bem-vindo ao WikiAnimes, um projeto pessoal inspirado no estilo visual e funcional da Wikipedia, desenvolvido com foco em acessibilidade digital. Esta enciclopédia fictícia apresenta páginas dedicadas a três grandes animes: One Piece, Death Note e Black Clover.
+Bem-vindo ao WikiAnimes, um projeto inspirado no estilo visual e funcional da Wikipedia, desenvolvido com foco em acessibilidade digital. Esta página apresenta conteúdos dedicados a três grandes animes: One Piece, Death Note e Black Clover.
 
 # Objetivo do projeto
 Este projeto foi criado como uma forma de praticar HTML semântico, estruturação de conteúdo acessível e boas práticas de desenvolvimento web, garantindo que pessoas com deficiência também consigam navegar e consumir o conteúdo com facilidade.
